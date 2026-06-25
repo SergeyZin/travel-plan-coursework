@@ -18,14 +18,7 @@
 
 ## Запуск
 
-```bash
-npm install
-npm run db:generate
-npm run db:reset
-npm run dev
-```
-
-После запуска открыть http://localhost:3000.
+Рабочая версия: https://tourplanning.ru/
 
 ## Тестовые пользователи
 
